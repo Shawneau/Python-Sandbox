@@ -8,6 +8,15 @@ favCat = input()
 print ('You would say that about ' + favCat)
 print ('But you are wrong')
 print ('The only answer is Lil Raayraaay')
+print ('Type RayRay to get a nice message')
+rayray = input()
+if rayray == 'Ray Ray':
+    print ('You have yourself a nice day you')
+else:
+    print ('Wrong Answer chief try again')
+
+
+
 
 
 
