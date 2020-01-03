@@ -1,12 +1,13 @@
-print ('This is a test')
-print ('fffffuuuu')
-testVariable = input()
-print (testVariable + ' is a weird thing to say')
+print ('Which cat is the best cat?')
+print ('Think long and hard')
+favCat = input()
+print (favCat + ' is the wrong answer')
 print ("Let's continue")
-print ('What is your name')
-userName = input()
-print ('Hello ' + userName)
-
+print ('What cat is the best cat')
+favCat = input()
+print ('You would say that about ' + favCat)
+print ('But you are wrong')
+print ('The only answer is Lil Raayraaay')
 
 
 
