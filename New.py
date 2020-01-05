@@ -10,11 +10,11 @@ print ('But you are wrong')
 print ('The only answer is Lil Raayraaay')
 print ('Type RayRay to get a nice message')
 rayray = input()
-if rayray == 'Ray Ray':
-    print ('You have yourself a nice day you')
+while rayray != 'Ray Ray':
+    print ('You did not type Ray Ray bozzo')
+    rayray = input()
 else:
-    print ('Wrong Answer chief try again')
-
+    print ('You got it chief!')
 
 
 
